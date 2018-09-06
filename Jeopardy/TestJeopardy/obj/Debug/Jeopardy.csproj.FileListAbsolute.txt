@@ -1,0 +1,11 @@
+C:\Users\jarre\Documents\Visual Studio 2015\Projects\Jeopardy\TestJeopardy\bin\Debug\TestJeopardy.exe.config
+C:\Users\jarre\Documents\Visual Studio 2015\Projects\Jeopardy\TestJeopardy\bin\Debug\TestJeopardy.exe
+C:\Users\jarre\Documents\Visual Studio 2015\Projects\Jeopardy\TestJeopardy\bin\Debug\TestJeopardy.pdb
+C:\Users\jarre\Documents\Visual Studio 2015\Projects\Jeopardy\TestJeopardy\obj\Debug\Jeopardy.csprojResolveAssemblyReference.cache
+C:\Users\jarre\Documents\Visual Studio 2015\Projects\Jeopardy\TestJeopardy\obj\Debug\TestJeopardy.GameBoard.resources
+C:\Users\jarre\Documents\Visual Studio 2015\Projects\Jeopardy\TestJeopardy\obj\Debug\TestJeopardy.Properties.Resources.resources
+C:\Users\jarre\Documents\Visual Studio 2015\Projects\Jeopardy\TestJeopardy\obj\Debug\TestJeopardy.QandA.resources
+C:\Users\jarre\Documents\Visual Studio 2015\Projects\Jeopardy\TestJeopardy\obj\Debug\TestJeopardy.Splash.resources
+C:\Users\jarre\Documents\Visual Studio 2015\Projects\Jeopardy\TestJeopardy\obj\Debug\Jeopardy.csproj.GenerateResource.Cache
+C:\Users\jarre\Documents\Visual Studio 2015\Projects\Jeopardy\TestJeopardy\obj\Debug\TestJeopardy.exe
+C:\Users\jarre\Documents\Visual Studio 2015\Projects\Jeopardy\TestJeopardy\obj\Debug\TestJeopardy.pdb
